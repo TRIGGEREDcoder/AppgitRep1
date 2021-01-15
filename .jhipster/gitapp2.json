@@ -1,0 +1,28 @@
+{
+    "relationships": [],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "f2",
+            "fieldType": "String"
+        },
+        {
+            "fieldId": 2,
+            "fieldName": "f23",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldId": 3,
+            "fieldName": "f16",
+            "fieldType": "String"
+        },
+        {
+            "fieldId": 4,
+            "fieldName": "f11",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "1610720524528",
+    "dto": "no",
+    "pagination": "no"
+}
